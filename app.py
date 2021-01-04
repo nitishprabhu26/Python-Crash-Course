@@ -1,7 +1,6 @@
 # PYTHON Crash COurse
 from math import *
 
-print("Hello World!")
 
 user_name = "Nitish Prabhu"
 user_age = 25
