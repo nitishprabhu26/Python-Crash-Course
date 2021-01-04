@@ -4,9 +4,6 @@ from math import *
 
 
 
-# Getting Input From Users
-name = input("Enter name: ")
-print("Hello " + name + "!")
 
 # Lists
 friends1 = ["John", "Jane", "Jack"]
