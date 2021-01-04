@@ -2,31 +2,7 @@
 from math import *
 
 
-user_name = "Nitish Prabhu"
-user_age = 25
-is_student = True
-print("Hi, I am " + user_name + ". I am " + str(user_age) + " years old.")
 
-# Working with strings:
-print("Welcome to \"Python Programming\". \nGood Morning!")
-print(user_name.upper())
-print(user_name.upper().isupper())
-print(len(user_name))
-print(user_name[0])
-print(user_name.index("i"))
-print(user_name.index("ish"))
-print(user_name.replace("Nitish Prabhu", "Nitish Prabhu Kota"))
-
-# Working with numbers:
-print(-5.4)
-print(2 * 5.9)
-print(10 % 4)
-print(abs(-4))
-print(pow(3, 2))
-print(max(3, 2))
-print(round(3.49))
-print(ceil(3.2))
-print(sqrt(67))
 
 # Getting Input From Users
 name = input("Enter name: ")
