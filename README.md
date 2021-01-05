@@ -1,3 +1,3 @@
 "# Python-Crash-Course" 
 
-full introduction into all of the core concepts in python.
+full introduction into all the core concepts in python.
