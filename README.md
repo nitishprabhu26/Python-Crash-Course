@@ -1,3 +1,4 @@
-"# Python-Crash-Course" 
+# Python-Crash-Course
+### freecodecamp.org - [Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
-full introduction into all the core concepts in python.
+Full introduction into all the core concepts in python.
